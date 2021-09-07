@@ -6,6 +6,8 @@
     <li>User can select any image from gallery or given images for puzzel</li>
     <li>Show hints</li>
     <li> Calculate Time and Score</li>
+</ul>
+<ul>
     <li>System Requiremnts: - Java 8 or higher, Android Studio</li>
     <li>Version 1.0</li>
 </ul>
