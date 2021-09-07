@@ -15,8 +15,4 @@
     <li>open the project using android studio</li>
     <li>Build and Run the project</li>
 </ul>
-<table style="width:100%">
-    <tr>
-        <th><img src="images/Screenshot (519).png" alt="loading screenshot"  width="200" height="320"/></th>
-    </tr>
-</table>
+<img src="images/Screenshot (519).png" alt="loading screenshot"  width="200" height="320"/></th>
